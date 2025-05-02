@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sameer480/Array/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sameer480/Array/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer480/Array/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sameer480/Array/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer480/Array/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
